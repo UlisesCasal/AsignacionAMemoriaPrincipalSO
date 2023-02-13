@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         GestorParticionesFijas gpf = new GestorParticionesFijas();
         gpf.iniciar();
+
     }
 
 }
